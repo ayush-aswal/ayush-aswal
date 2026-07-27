@@ -46,9 +46,7 @@ const whoAmI = {
 
 Flask-based MGNREGA dashboard with SQLite, interactive charts, multilingual support, and district-wise data visualization.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayush-aswal&repo=mgnrega-dashboard&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="mgnrega-dashboard pin" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayush-aswal&repo=mgnrega-dashboard&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="mgnrega-dashboard pin" />
 
 | Layer | Technology |
 |---|---|
@@ -65,9 +63,7 @@ Flask-based MGNREGA dashboard with SQLite, interactive charts, multilingual supp
 
 Collection of responsive web UI projects built using HTML, CSS, Bootstrap, and JavaScript.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayush-aswal&repo=aswal-frontend-projects&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="aswal-frontend-projects pin" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayush-aswal&repo=aswal-frontend-projects&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="aswal-frontend-projects pin" />
 
 | Layer | Technology |
 |---|---|
@@ -100,27 +96,6 @@ Collection of responsive web UI projects built using HTML, CSS, Bootstrap, and J
 **Dev Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-<br/>
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush-aswal&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-aswal&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ayush-aswal&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayush-aswal&theme=nord&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-</div>
 
 <br/>
 
