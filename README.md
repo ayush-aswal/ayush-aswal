@@ -8,9 +8,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ayush-aswal&label=Profile%20Views&color=7dd3fc&style=flat" alt="profile views" />
-<img src="https://img.shields.io/github/followers/ayush-aswal?label=Followers&style=flat&color=7dd3fc" alt="followers" />
-
 </div>
 
 <br/>
@@ -113,7 +110,7 @@ Collection of responsive web UI projects built using HTML, CSS, Bootstrap, and J
   <a href="https://www.linkedin.com/in/ayush-aswal-725b4b25a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:aswalayush6@gmail.com">
+  <a href="mailto:ayushaswal1213@gmail.com">
     <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.instagram.com/ayush._.aswal/">
