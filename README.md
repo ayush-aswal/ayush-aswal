@@ -1,34 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0ea5e9&height=220&section=header&text=Ayush%20Aswal&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Analytics%20Enthusiast&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Ayush%20Aswal&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" />
 
-<a href="https://github.com/ayush-aswal">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%26+Data+Analytics+Enthusiast;Building+the+MGNREGA+Dashboard;Exploring+GenAI+%26+EDA" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+Full+Stack+Projects;Strengthening+Data+Structures+%26+Algorithms;Exploring+AI+%26+Modern+Web+Technologies" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ayush-aswal&color=7dd3fc&style=flat" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/ayush-aswal?label=Followers&style=flat&color=7dd3fc" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=ayush-aswal&label=Profile%20Views&color=7dd3fc&style=flat" alt="profile views" />
+<img src="https://img.shields.io/github/followers/ayush-aswal?label=Followers&style=flat&color=7dd3fc" alt="followers" />
 
 </div>
 
 <br/>
 
-## 🧠 Who I Am
+## 🧑‍💻 Who I Am
 
-```ts
-const ayushAswal = {
-  title: "Full Stack Developer | AI & Data Analytics Enthusiast",
+```typescript
+const whoAmI = {
+  title: "Computer Science Engineer | Full Stack Developer | AI Enthusiast",
   stack: {
-    languages: ["JavaScript", "Python"],
-    frontend: ["HTML5", "CSS", "Bootstrap"],
-    backend: ["Node.js", "Express.js"],
+    languages: ["Python", "JavaScript", "SQL"],
+    frontend: ["HTML", "CSS", "Bootstrap"],
+    backend: ["Node.js", "Express.js", "Flask"],
     database: ["MySQL", "MongoDB", "SQLite"],
-    aiMl: ["Generative AI (GenAI)", "Exploratory Data Analysis (EDA)", "Data Analytics"],
-    tools: ["Git", "GitHub", "VS Code"],
+    aiAndData: ["Generative AI (GenAI)", "Data Analytics", "Exploratory Data Analysis (EDA)"],
+    tools: ["Git", "GitHub", "Visual Studio Code (VS Code)"],
   },
   launchedProjects: ["mgnrega-dashboard", "aswal-frontend-projects"],
+  currentlyWorkingOn: [
+    "Building Full Stack projects",
+    "Strengthening Data Structures & Algorithms",
+    "Exploring AI and modern web technologies",
+  ],
+  status: "Actively building & learning",
 };
 ```
 
@@ -36,70 +42,92 @@ const ayushAswal = {
 
 ## 🚀 Featured Projects
 
-### 📊 mgnrega-dashboard
+### 📊 MGNREGA Dashboard
+
 Flask-based MGNREGA dashboard with SQLite, interactive charts, multilingual support, and district-wise data visualization.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayush-aswal&repo=mgnrega-dashboard&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="mgnrega-dashboard pin" />
+</div>
 
 | Layer | Technology |
 |---|---|
 | Backend | Flask |
 | Database | SQLite |
 | Visualization | Interactive Charts |
-| Feature | Multilingual Support |
+| Feature | Multilingual Support, District-wise Data |
+
+🔗 **Live:** Not deployed &nbsp;&nbsp;|&nbsp;&nbsp; 💻 **Code:** [mgnrega-dashboard](https://github.com/ayush-aswal/mgnrega-dashboard)
 
 <br/>
 
-### 🎨 aswal-frontend-projects
+### 🎨 Aswal Frontend Projects
+
 Collection of responsive web UI projects built using HTML, CSS, Bootstrap, and JavaScript.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayush-aswal&repo=aswal-frontend-projects&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="aswal-frontend-projects pin" />
+</div>
 
 | Layer | Technology |
 |---|---|
-| Markup | HTML5 |
+| Markup | HTML |
 | Styling | CSS, Bootstrap |
 | Interactivity | JavaScript |
+
+🔗 **Live:** Not deployed &nbsp;&nbsp;|&nbsp;&nbsp; 💻 **Code:** [aswal-frontend-projects](https://github.com/ayush-aswal/aswal-frontend-projects)
 
 <br/>
 
 ## 🛠️ Tech Stack
 
 **Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,python" alt="languages"/>
+
+<img src="https://skillicons.dev/icons?i=python,js" />
 
 **Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="frontend"/>
 
-**Backend / Infra**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="backend"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 
-**AI / Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" alt="database"/>
-<br/>
-<img src="https://img.shields.io/badge/Generative_AI-7dd3fc?style=for-the-badge&logo=openai&logoColor=0d1117" alt="GenAI"/>
-<img src="https://img.shields.io/badge/EDA-7dd3fc?style=for-the-badge&logo=jupyter&logoColor=0d1117" alt="EDA"/>
-<img src="https://img.shields.io/badge/Data_Analytics-7dd3fc?style=for-the-badge&logo=googleanalytics&logoColor=0d1117" alt="Data Analytics"/>
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 
 **Dev Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="tools"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 <br/>
 
 ## 📈 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush-aswal&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-aswal&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" width="48%" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayush-aswal&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&cache_seconds=86400" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-aswal&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&cache_seconds=86400" alt="Top Languages" height="165"/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ayush-aswal&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak" />
+</div>
 
-<img src="https://streak-stats.demolab.com/?user=ayush-aswal&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&cache_seconds=86400" alt="Streak Stats"/>
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ayush-aswal&theme=nord&no-frame=true&no-bg=true&margin-w=10&row=1&cache_seconds=86400" alt="Trophies"/>
+## 🏆 GitHub Trophies
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-aswal&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" alt="Activity Graph" width="100%"/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayush-aswal&theme=nord&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+</div>
 
+<br/>
+
+## 📊 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-aswal&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <br/>
@@ -107,17 +135,19 @@ Collection of responsive web UI projects built using HTML, CSS, Bootstrap, and J
 ## 🤝 Connect With Me
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/ayush-aswal-725b4b25a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:aswalayush6@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.instagram.com/ayush._.aswal/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/ayush-aswal-725b4b25a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aswalayush6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/ayush._.aswal/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer&animation=twinkling" />
+
+</div>
