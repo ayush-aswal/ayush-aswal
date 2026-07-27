@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Ayush%20Aswal&fontSize=50&fontColor=0d1117&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Analytics%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0ea5e9&height=220&section=header&text=Ayush%20Aswal&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Analytics%20Enthusiast&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
 
 <a href="https://github.com/ayush-aswal">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%26+Data+Analytics+Enthusiast;Building+the+MGNREGA+Dashboard;Exploring+GenAI+%26+EDA" alt="Typing SVG" />
@@ -39,8 +39,6 @@ const ayushAswal = {
 ### 📊 mgnrega-dashboard
 Flask-based MGNREGA dashboard with SQLite, interactive charts, multilingual support, and district-wise data visualization.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayush-aswal&repo=mgnrega-dashboard&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="mgnrega-dashboard pin"/>
-
 | Layer | Technology |
 |---|---|
 | Backend | Flask |
@@ -48,22 +46,16 @@ Flask-based MGNREGA dashboard with SQLite, interactive charts, multilingual supp
 | Visualization | Interactive Charts |
 | Feature | Multilingual Support |
 
-**Code:** [github.com/ayush-aswal/mgnrega-dashboard](https://github.com/ayush-aswal/mgnrega-dashboard)
-
 <br/>
 
 ### 🎨 aswal-frontend-projects
 Collection of responsive web UI projects built using HTML, CSS, Bootstrap, and JavaScript.
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayush-aswal&repo=aswal-frontend-projects&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="aswal-frontend-projects pin"/>
 
 | Layer | Technology |
 |---|---|
 | Markup | HTML5 |
 | Styling | CSS, Bootstrap |
 | Interactivity | JavaScript |
-
-**Code:** [github.com/ayush-aswal/aswal-frontend-projects](https://github.com/ayush-aswal/aswal-frontend-projects)
 
 <br/>
 
