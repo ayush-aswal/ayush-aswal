@@ -91,12 +91,12 @@ Collection of responsive web UI projects built using HTML, CSS, Bootstrap, and J
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayush-aswal&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-aswal&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ayush-aswal&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&cache_seconds=86400" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-aswal&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&cache_seconds=86400" alt="Top Languages" height="165"/>
 
-<img src="https://streak-stats.demolab.com/?user=ayush-aswal&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" alt="Streak Stats"/>
+<img src="https://streak-stats.demolab.com/?user=ayush-aswal&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&cache_seconds=86400" alt="Streak Stats"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ayush-aswal&theme=nord&no-frame=true&no-bg=true&margin-w=10&row=1" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ayush-aswal&theme=nord&no-frame=true&no-bg=true&margin-w=10&row=1&cache_seconds=86400" alt="Trophies"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-aswal&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" alt="Activity Graph" width="100%"/>
 
